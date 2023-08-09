@@ -7,11 +7,25 @@ There are a lot of literatures and studies on linear regression such as how data
 
 Six major phases of CRISP-DM:
 
-Business Understanding
-Data Understanding
-Data Preparation
-Modelling
-Evaluation
-Deployment
+1. Business Understanding
+2. Data Understanding
+3. Data Preparation
+4. Modelling
+5. Evaluation
+6. Deployment
 
 Details of the report based on CRISP-DM can be found [here](/project_summary.docx)
+
+## 👨 Feedback/Ideas? Lets connect!
+
+I would love to hear feedbacks or ideas from you! Or just simply connect and chat, feel free to contact me on:
+
+<a href="https://www.linkedin.com/in/michaelyaputra/">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+
+</a>
+
+<a href="https://github.com/mcyaputra">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+</a>
