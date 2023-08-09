@@ -14,10 +14,16 @@ Six major phases of CRISP-DM:
 5. Evaluation
 6. Deployment
 
-Detailed report based on CRISP-DM can be found [here](/project_summary.docx)
+Tools:
+
+1. Jupyter notebook
+2. Python
+3. Scikit-learn, pandas, numpy, seaborn (Python libraries)
+
+Detailed report and evaluation based on CRISP-DM can be found [here](/project_summary.docx)
 
 ## 👩‍💻 Experiments
-We will run 3 experiments:
+We will run 3 experiments using python and scikit-learn library:
 
 Experiment 1: [Univariate linear regression](/Univariate_Linear_Regression.ipynb)
 
