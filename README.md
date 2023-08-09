@@ -14,7 +14,18 @@ Six major phases of CRISP-DM:
 5. Evaluation
 6. Deployment
 
-Details of the report based on CRISP-DM can be found [here](/project_summary.docx)
+Detailed report based on CRISP-DM can be found [here](/project_summary.docx)
+
+We will run 3 experiments:
+
+Experiment 1: [Univariate linear regression](/Univariate_Linear_Regression.ipynb)
+Univariate linear regression using 2 features with higher correlation with the target variable (cancer mortality rate). The purpose is to see if we can accurately predict mortality rate using single variable.
+
+Experiment 2: Multivariate linear regression
+Multivariate linear regression using all the available features in the dataset. The objective is to see how well the model performs if we all the features available.
+
+Experiment 3: Multivariate linear regression
+Regularization and feature engineering are used to try to achieve better accuracy compared to previous experiments.
 
 ## 👨 Feedback/Ideas? Lets connect!
 
