@@ -37,6 +37,14 @@ Experiment 3: [Multivariate linear regression](/Multivariate_Linear_Regression_F
 
 Regularization and feature engineering are used to try to achieve better accuracy compared to previous experiments.
 
+## ⚙️ How to Setup
+
+1. Download the experiments (3 Python notebooks), for links, see above section (Experiments)
+2. Open the notebooks using local editor (vscode, Pycharm etc) or Jupyter notebook
+3. Run the code chunks from the top (dataset will be downloaded automatically)
+4. Analyze the results
+5. For more detailed explanation, download the detailed report and evaluation [here](/project_summary.docx)
+
 ## 👨 Feedback/Ideas? Lets connect!
 
 I would love to hear feedbacks or ideas from you! Or just simply connect and chat, feel free to contact me on:
